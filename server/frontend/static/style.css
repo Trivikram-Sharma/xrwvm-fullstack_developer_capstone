@@ -124,3 +124,21 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+#contact-us-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+dl#contact-info{
+    color: rgb(67, 180, 245);
+}
+
+dl#contact-info dd{
+    color: rgb(67, 180, 245);
+    font-style: bold;
+}
